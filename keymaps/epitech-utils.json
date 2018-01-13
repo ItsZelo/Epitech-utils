@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-shift-h": "epitech-utils:insert-header",
+    "ctrl-shift-g": "epitech-utils:insert-guards"
+  }
+}

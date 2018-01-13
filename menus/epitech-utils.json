@@ -1,0 +1,34 @@
+{
+	"context-menu": {
+		"atom-text-editor": [
+			{
+				"label": "Insert EPITECH Header",
+				"command": "epitech-utils:insert-header"
+			},
+			{
+				"label": "Insert Include Guards",
+				"command": "epitech-utils:insert-guards"
+			}
+		]
+	},
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "Epitech-utils",
+					"submenu": [
+						{
+							"label": "Insert EPITECH Header",
+							"command": "epitech-utils:insert-header"
+						},
+						{
+							"label": "Insert Include Guards",
+							"command": "epitech-utils:insert-guards"
+						}
+					]
+				}
+			]
+		}
+	]
+}
